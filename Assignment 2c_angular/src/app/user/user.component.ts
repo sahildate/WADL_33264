@@ -13,11 +13,11 @@ export class UserComponent implements OnInit {
   password = '';
 
   userList = [{
-    name:"Shivendra",
+    name:"Sahil",
     pass:"123"
   },
    {
-     name:"Shiv",
+     name:"Sahil Date",
     pass:"345"
   }];
 
